@@ -1,0 +1,19 @@
+{
+  "name": "assertmatches",
+  "version": "1.0.0",
+  "description": "helper to match a string against string with placeholders",
+  "main": "index.js",
+  "files":["index.js"],
+  "scripts": {
+    "test": "uvu test"
+  },
+  "author": "mpech",
+  "license": "ISC",
+  "dependencies": {
+    "uvu": "^0.5.2"
+  },
+  "devDependencies": {
+    "standard": ""
+  },
+  "type": "module"
+}
